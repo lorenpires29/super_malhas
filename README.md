@@ -24,7 +24,7 @@ O **Super Malhas** é um simulador completo para **análise de circuitos elétri
 R \cdot I = V
 \]
 
-Criado como ferramenta didática em **Circuitos Elétricos I – IFMT**, suporta até **6 malhas**, solucionando automaticamente sistemas lineares complexos.
+Criado como ferramenta didática em **Circuitos Elétricos I – IFMT**, suporta até **10 malhas**, solucionando automaticamente sistemas lineares complexos.
 
 ---
 
